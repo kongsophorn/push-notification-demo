@@ -1,0 +1,23 @@
+{
+    "name": "sophorn app",
+    "short_name": "AppName 123",
+    "description": "A description of your app",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1976d2",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+       
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
